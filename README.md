@@ -1,0 +1,2 @@
+# thinning
+Data thinning research 
